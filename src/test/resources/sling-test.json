@@ -1,0 +1,56 @@
+{
+  "jcr:primaryType": "sling:Folder",
+  "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+  "jcr:createdBy": "admin",
+  "initial-content-folder": {
+    "jcr:primaryType": "sling:Folder",
+    "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+    "jcr:createdBy": "admin",
+    "folder-content-test": {
+      "text": "This node is used to test initial content loading",
+      "jcr:createdBy": "admin",
+      "jcr:primaryType": "sling:Folder",
+      "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+      "marker": "46"
+    }
+  },
+  "sling": {
+    "jcr:primaryType": "sling:Folder",
+    "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+    "jcr:createdBy": "admin",
+    "assert.js": {
+      "jcr:primaryType": "nt:file",
+      "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+      "jcr:createdBy": "admin",
+      "jcr:content": {
+        "jcr:lastModified": "Tue Sep 02 2014 14:12:59 GMT+0000",
+        ":jcr:data": 1340,
+        "jcr:lastModifiedBy": "admin",
+        "jcr:uuid": "4d5dcb8a-ac61-4b29-843e-8ec78044689b",
+        "jcr:mimeType": "application/javascript",
+        "jcr:primaryType": "nt:resource"
+      }
+    },
+    "initial-content-test": {
+      "text": "This node is used to test initial content loading",
+      "jcr:createdBy": "admin",
+      "jcr:primaryType": "sling:Folder",
+      "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+      "marker": "42"
+    },
+    "sling-test.html": {
+      "jcr:primaryType": "nt:file",
+      "jcr:created": "Fri Mar 27 2015 11:38:17 GMT+0200",
+      "jcr:createdBy": "admin",
+      "jcr:content": {
+        "jcr:lastModified": "Tue Sep 02 2014 14:12:59 GMT+0000",
+        ":jcr:data": 5935,
+        "jcr:lastModifiedBy": "admin",
+        "jcr:uuid": "915f3592-4bfc-426a-84ae-3eb124065555",
+        "jcr:mimeType": "text/html",
+        "jcr:primaryType": "nt:resource"
+      }
+    }
+  }
+}
+
